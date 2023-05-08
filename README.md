@@ -19,8 +19,6 @@
 
 🖥 I’m an iOS、macOS、Android、Electron and Flutter developer.
 
-🏖 	 I like biking、climbing、fishing......
-
 **My Github Stats:**
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=MagicDoraemon&count_private=true&show_icons=true&theme=buefy&hide=contribs,prs,issues)](https://github.com/MagicDoraemon) 
