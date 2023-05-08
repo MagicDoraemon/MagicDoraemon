@@ -13,7 +13,7 @@
   Hi, I'm Doraemon
 </h3>
 
-📍 I live in Tokyo, Japan.
+📍 I live in Kyoto, Japan.
 
 🏢 I’m an engineer work at Nintendo.
 
