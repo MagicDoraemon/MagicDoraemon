@@ -13,11 +13,6 @@
   Hi, I'm Doraemon
 </h3>
 
-<!--<h3>
- <img src="https://p.ipic.vip/ss9hjt.gif" width="32"/>
-  Hi, I'm Doraemon
-</h3>-->
-
 📍 I live in Tokyo, Japan.
 
 🏢 I’m an engineer work at Nintendo.
